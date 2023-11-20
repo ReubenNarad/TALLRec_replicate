@@ -1,0 +1,100 @@
+[
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"Q Is for Quarry\" written by Sue Grafton, \"The End of Enemies (Briggs Tanner Novels)\" written by Grant Blackwood\nUser Unpreference: \"ICEFIRE\" written by Judith Reeves-Stevens\nWhether the user will like the target book \"\"Specter of the Past: Star Wars (Star Wars (Bantam Books (Firm) : Unnumbered).)\" written by Timothy Zahn\"?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \nUser Unpreference: \"The Cat Who Robbed a Bank (Cat Who... (Paperback))\" written by Lilian Jackson Braun, \"The Cat Who Tailed a Thief\" written by Lilian Jackson Braun, \"The Cat Who Sang for the Birds (Cat Who... (Paperback))\" written by Lilian Jackson Braun, \"The Cat Who Saw Stars\" written by Lilian Jackson Braun, \"The Cat Who Said Cheese\" written by Lilian Jackson Braun\nWhether the user will like the target book \"\"The Christmas Story with Ruth J. Morehead's Holly Babes (Picturebacks)\" written by RUTH J. MOREHEAD\"?",
+    "output": "No."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"Divine Secrets of the Ya-Ya Sisterhood: A Novel\" written by Rebecca Wells\nUser Unpreference: \"Neverwhere\" written by Neil Gaiman, \"Madame Bovary\" written by Gustave Flaubert, \"CATS IN SPACE...AND OTHER PLACES\" written by Brian Fawcett, \"Folio Junior: L'histoire De Monsieur Sommer\" written by Su>skind-Sempe, \"Wildlife Preserves\" written by Gary Larson, \"Saving the World in Your Spare Time\" written by Laura Klotz, \"Short Notes from the Long History of Happiness\" written by Michael Leunig, \"The Red and the Black: A Chronicle of the Nineteenth Century (Oxford World's Classics)\" written by Stendhal, \"Shakespeare's Christmas : A Lily Bard Mystery (Lily Bard Mysteries)\" written by CHARLAINE HARRIS\nWhether the user will like the target book \"\"The Black Pharaoh\" written by Christian Jacq\"?",
+    "output": "No."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"Two women\" written by Doris Anderson, \"A very political lady: A novel\" written by Judy LaMarsh, \"A right honourable lady: A novel\" written by Judy LaMarsh\nUser Unpreference: \nWhether the user will like the target book \"\"Moonwebs: Journey into the mind of a cult\" written by Josh Freed\"?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"In the Lake of the Woods\" written by Tim O'Brien, \"Sexing the Cherry (Vintage International)\" written by Jeanette Winterson, \"The Horned Man\" written by James Lasdun, \"Dr. Haggard's Disease (Vintage Contemporaries)\" written by Patrick McGrath, \"The Sea of Light\" written by Jenifer Levin\nUser Unpreference: \"The Bird Artist\" written by Howard Norman, \"Two Girls, Fat and Thin\" written by Mary Gaitskill, \"Simple Passion\" written by Annie Ernaux, \"Twelve Steps and Twelve Traditions\" written by Alcoholics Anonymous, \"A Song for Arbonne\" written by Guy Gavriel Kay\nWhether the user will like the target book \"\"Before and After\" written by Rosellen Brown\"?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"Blue Adept (Apprentice Adept (Paperback))\" written by Piers Anthony, \"The Man in the Iron Mask (Signet Classics (Paperback))\" written by Alexandre Dumas\nUser Unpreference: \"Is Talking to God a Long-Distance Call?: How to Hear and Understand God's Voice\" written by John J. Boucher, \"The Lure of the Sea: The Discovery of the Seaside in the Western World 1750-1840 (Penguin History)\" written by Alain Corbin, \"Never Alone : A Personal Way to God by the author of JOSHUA\" written by JOSEPH GIRZONE, \"Body for Life: 12 Weeks to Mental and Physical Strength\" written by Bill Phillips, \"Cuckoo's egg\" written by C. J Cherryh, \"A Knight of the Word (The Word and the Void Trilogy, Book 2)\" written by Terry Brooks, \"First King of Shannara\" written by Terry Brooks, \"The Five People You Meet in Heaven\" written by Mitch Albom\nWhether the user will like the target book \"\"STONES FROM THE RIVER\" written by Ursula Hegi\"?",
+    "output": "No."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"Roadwork\" written by Richard Bachman\nUser Unpreference: \"A Painted House\" written by John Grisham, \"Mortal Fear\" written by Robin Cook, \"Contagion\" written by Robin Cook, \"Davita's Harp\" written by Chaim Potok\nWhether the user will like the target book \"\"Cosbyology : Essays and Observations From the Doctor of Comedy\" written by Bill Cosby\"?",
+    "output": "No."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"Wild Animus\" written by Rich Shapero\nUser Unpreference: \"Carolina Moon\" written by Nora Roberts, \"The Second Time Around : A Novel\" written by Mary Higgins Clark\nWhether the user will like the target book \"\"Acorna: The Unicorn Girl\" written by Anne McCaffrey\"?",
+    "output": "No."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"The Cove\" written by Catherine Coulter, \"Hiding Place\" written by Corrie Ten Boom\nUser Unpreference: \"Ramona and Her Father (Avon Camelot Books (Paperback))\" written by Beverly Cleary\nWhether the user will like the target book \"\"Science As It Happens!: Family Activities With Children Ages 4 to 8\" written by Jean Durgin, Ph.D. Harlan\"?",
+    "output": "No."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \nUser Unpreference: \"The Temple of My Familiar\" written by Alice Walker, \"The Bridges of Madison County\" written by Robert James Waller, \"Fly by Night\" written by Carol Wallace\nWhether the user will like the target book \"\"Bone Cold\" written by Erica Spindler\"?",
+    "output": "No."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"Fugitive Nights\" written by Joseph Wambaugh, \"Up Country\" written by Nelson DeMille\nUser Unpreference: \"The Moaner's Bench\" written by Mars Hill, \"Steel Beach\" written by John Varley, \"Saving Faith\" written by David Baldacci, \"McNally's Puzzle\" written by Lawrence Sanders, \"The Sigma Protocol\" written by Robert Ludlum, \"Plum Island\" written by Nelson DeMille, \"Absolute Rage\" written by Robert K. Tanenbaum, \"The Night Manager\" written by John Le Carre\nWhether the user will like the target book \"\"Black Sand\" written by William J. Caunitz\"?",
+    "output": "No."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"Silent Partner (Alex Delaware Novels (Paperback))\" written by Jonathan Kellerman\nUser Unpreference: \"1st to Die: A Novel\" written by James Patterson, \"Robinson Crusoe (Bantam Classic)\" written by Daniel Defoe, \"Seizure\" written by Charles L. Mee, \"Big Trouble\" written by Dave Barry, \"Over the Edge\" written by Jonathan Kellerman\nWhether the user will like the target book \"\"Cradle and All\" written by James Patterson\"?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"The Rainmaker\" written by JOHN GRISHAM, \"The Queen of the Damned (Vampire Chronicles (Paperback))\" written by Anne Rice, \"Story of O\" written by Pauline Reage\nUser Unpreference: \nWhether the user will like the target book \"\"The Hardy Boyz : Exist 2 Inspire\" written by Matt Hardy\"?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"El Senor De Los Anillos: LA Comunidad Del Anillo (Lord of the Rings (Spanish))\" written by J. R. R. Tolkien, \"Chambers Dictionary of World History\" written by Bruce Lenman, \"Tratado Practico de Bonsai\" written by W. Kallowek\nUser Unpreference: \"En Las Profundidades\" written by Arthur Charles Clarke\nWhether the user will like the target book \"\"Diccionari general de la llengua catalana\" written by Pompeu Fabra\"?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"Shopgirl\" written by Steve Martin, \"The Other Boleyn Girl\" written by Philippa Gregory, \"Wifey\" written by Judy Blume\nUser Unpreference: \"Farm Fatale: A Comedy of Country Manors\" written by Wendy Holden, \"Justice: Crimes, Trials, and Punishments\" written by Dominick Dunne, \"White Oleander : A Novel (Oprah's Book Club)\" written by Janet Fitch\nWhether the user will like the target book \"\"I Thought My Father Was God: And Other True Tales from NPR's National Story Project\" written by Paul Auster\"?",
+    "output": "No."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"Cold Mountain (MTI) (Vintage Contemporaries)\" written by CHARLES FRAZIER, \"STREETS OF LAREDO\" written by Larry McMurtry, \"The Ultimate Hitchhiker's Guide to the Galaxy\" written by DOUGLAS ADAMS, \"Boone's Lick : A Novel\" written by Larry McMurtry, \"ANYTHING FOR BILLY\" written by Larry McMurtry, \"The Hitchhiker's Guide to the Galaxy\" written by Douglas Adams\nUser Unpreference: \"Comanche Moon (Lonesome Dove)\" written by Larry McMurtry\nWhether the user will like the target book \"\"Lonesome Dove\" written by Larry McMurtry\"?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"The Hobbit : The Enchanting Prelude to The Lord of the Rings\" written by J.R.R. TOLKIEN\nUser Unpreference: \"Needful Things\" written by Stephen King, \"Kissing the Witch: Old Tales in New Skins\" written by Emma Donoghue\nWhether the user will like the target book \"\"Renee and Jay\" written by J. J. Murray\"?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"False Memory\" written by Dean R. Koontz, \"Pink Slip\" written by RITA CIRESI, \"I Know This Much Is True (Oprah's Book Club)\" written by Wally Lamb, \"The Nanny Diaries: A Novel\" written by Emma McLaughlin\nUser Unpreference: \"Distant Shores\" written by Kristin Hannah, \"While I Was Gone\" written by Sue Miller, \"Fourplay: A Novel\" written by Jane Moore, \"The Last Time They Met : A Novel\" written by Anita Shreve\nWhether the user will like the target book \"\"Four Blondes\" written by Candace Bushnell\"?",
+    "output": "No."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"Fr\u00c3?\u00c2\u00bcchte des Zorns. Roman.\" written by John Steinbeck, \"Gest\u00c3?\u00c2\u00a4ndnisse eines K\u00c3?\u00c2\u00bcchenchefs. Was Sie \u00c3?\u00c2\u00bcber Restaurants nie wissen wollten.\" written by Anthony Bourdain, \"Am Anfang war das Wort. Texte von 1969 bis 1990. ( rororo aktuell / Essay).\" written by Vaclav Havel, \"Niemand hat Kolumbus ausgelacht: F\u00c3\u00a4lschungen und Legenden der Geschichte richtiggestellt\" written by Gerhard Prause\nUser Unpreference: \"Sucht ohne Drogen: Arbeiten, Spielen, Essen, Lieben (Fischer Sachbuch)\" written by Werner Gross, \"Herzlichst Ihre Rosa: Ausgew\u00c3\u00a4hlte Briefe\" written by Rosa Luxemburg\nWhether the user will like the target book \"\"Beautiful Losers\" written by Leonard Cohen\"?",
+    "output": "No."
+  },
+  {
+    "instruction": "Given the user's preference and unpreference, identify whether the user will like the target book by answering \"Yes.\" or \"No.\".",
+    "input": "User Preference: \"Cuisine Novella\" written by Antoine Laurent, \"Pride and Prejudice (Modern Library)\" written by JANE AUSTEN, \"Illustrated Daughters of Britannia\" written by Katie Hickman\nUser Unpreference: \"The Best of Rumpole\" written by John Mortimer, \"The Miracle Life of Edgar Mint: A Novel\" written by Brady Udall, \"Metamorphosis (Penguin Modern Classics)\" written by Franz Kafka, \"Europe 2003: the Inter-railer's and Eurailer's Guide (Independent Traveller's Guides)\" written by Tim Locke, \"Stupid White Men ...and Other Sorry Excuses for the State of the Nation!\" written by Michael Moore, \"The Dam Busters (Pan Grand Strategy S.)\" written by Paul Brickhill\nWhether the user will like the target book \"\"Hudson's Historic Houses &amp; Gardens 2002: The Comprehensive Annual Guide to Heritage Properties in Great Britain and Ireland\" written by Norman Hudson\"?",
+    "output": "No."

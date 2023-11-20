@@ -22,7 +22,7 @@ Table 1. we shown the AUC results of the baseline models and our frameworks on m
 
 Train TALLRec base on LLaMA7B:
 ```
-bash ./shell/instruct_7B.sh  gpu_id random_seed
+bash ./shell/instruct_7B.sh  0 1
 ```
 If you want to run it under your environment, you need to make changes to the sh file:
 - output_dir: Model save path，we will automatically add the seed and the sample to the end of the path for each experiments.

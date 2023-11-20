@@ -1,10 +1,17 @@
 echo $1, $2
 seed=$2
 output_dir='./test'
-base_model='chainyo/alpaca-lora-7b'
-train_data='./data/book/train.json'
+base_model='baffo32/decapoda-research-llama-7B-hf'
+train_data='./data/book/train_small.json'
 val_data='./data/book/valid.json'
 instruction_model='chainyo/alpaca-lora-7b'
+
+# Define the number of lines to extract
+number_of_lines=100  # Adjust this to the desired number of lines
+
+# Extract a subset of the train_data JSON file
+head -n "$number_of_lines" "$train_data" > subset_train_data.json
+
 for lr in 1e-4
 do
     for dropout in 0.05

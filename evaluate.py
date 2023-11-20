@@ -26,7 +26,7 @@ except:  # noqa: E722
 
 def main(
     load_8bit: bool = False,
-    base_model: str = "",
+    base_model: str = "baffo32/decapoda-research-llama-7B-hf",
     lora_weights: str = "tloen/alpaca-lora-7b",
     test_data_path: str = "data/test.json",
     result_json_data: str = "temp.json",
