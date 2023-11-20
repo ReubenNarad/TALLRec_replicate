@@ -178,11 +178,13 @@ def main(
 
     with open(test_data_path, 'r') as f:
         test_data = json.load(f)
+        
+        # Added limit to avoid overflow
+        test_data = test_data[:1300]
         print(f"evaluating {len(test_data)} data points")
-        end = 100
-        instructions = [_['instruction'] for _ in test_data[:end]]
-        inputs = [_['input'] for _ in test_data[:end]]
-        gold = [int(_['output'] == 'Yes.') for _ in test_data[:end]]
+        instructions = [_['instruction'] for _ in test_data]
+        inputs = [_['input'] for _ in test_data]
+        gold = [int(_['output'] == 'Yes.') for _ in test_data]
         def batch(list, batch_size=32):
             chunk_size = (len(list) - 1) // batch_size + 1
             for i in range(chunk_size):
